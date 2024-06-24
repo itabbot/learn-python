@@ -2,7 +2,7 @@
 
 [Beginner’s Python Tutorial >>](https://python.land/python-tutorial)
 
--   [略] [Introduction](https://python.land/python-tutorial)（引言）
+-   [略] Introduction（引言）
 -   Install Python
 -   Introduction to Python
 -   Creating Python Programs
