@@ -1,6 +1,6 @@
 # Python.Lang 初学者教程
 
-[Beginner’s Python Tutorial](https://python.land/python-tutorial)
+[Beginner’s Python Tutorial >>](https://python.land/python-tutorial)
 
 -   Introduction
 -   Install Python
