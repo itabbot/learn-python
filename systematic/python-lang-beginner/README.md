@@ -7,6 +7,7 @@
     -   [How To Open Python on Windows, Mac, Linux](https://python.land/installing-python/starting-python)（[如何在 Windows、Mac、Linux 上打开 Python](./1.Install-Python/How-To-Open-Python-on-Windows-Mac-Linux.md)）
 -   Introduction to Python（Python 介绍）
     -   [Python REPL](https://python.land/introduction-to-python/the-repl)（[Python REPL：探索 Python 运算符及其优先级](./2.Introduction-to-Python/Python-REPL.md)）
+    -   [Python Variable: Storing Information for Later Use](https://python.land/introduction-to-python/variable)（[Python 变量：存储信息以供日后使用](./2.Introduction-to-Python/Python-Variable-Storing-Information-for-Later-Use.md)）
 
 <!--  -->
 <!--  -->
