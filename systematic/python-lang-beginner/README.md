@@ -8,6 +8,7 @@
 -   Introduction to Python（Python 介绍）
     -   [Python REPL](https://python.land/introduction-to-python/the-repl)（[Python REPL：探索 Python 运算符及其优先级](./2.Introduction-to-Python/Python-REPL.md)）
     -   [Python Variable: Storing Information for Later Use](https://python.land/introduction-to-python/variable)（[Python 变量：存储信息以供日后使用](./2.Introduction-to-Python/Python-Variable-Storing-Information-for-Later-Use.md)）
+    -   [Python String: Working With Text](https://python.land/introduction-to-python/strings)（[Python 字符串：处理文本](./2.Introduction-to-Python/Python-String-Working-With-Text.md)）
 
 <!--  -->
 <!--  -->
