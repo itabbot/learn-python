@@ -10,6 +10,7 @@
     -   [Python Variable: Storing Information for Later Use](https://python.land/introduction-to-python/variable)（[Python 变量：存储信息以供日后使用](./2.Introduction-to-Python/Python-Variable-Storing-Information-for-Later-Use.md)）
     -   [Python String: Working With Text](https://python.land/introduction-to-python/strings)（[Python 字符串：处理文本](./2.Introduction-to-Python/Python-String-Working-With-Text.md)）
     -   [Python Boolean and Conditional Programming](https://python.land/introduction-to-python/python-boolean-and-operators)（[Python 布尔和条件编程](./2.Introduction-to-Python/Python-Boolean-and-Conditional-Programming.md)）
+    -   [Python For Loop and While Loop](https://python.land/introduction-to-python/python-for-loop)（[Python For 循环和 While 循环](./2.Introduction-to-Python/Python-For-Loop-and-While-Loop.md)）
 
 <!--  -->
 <!--  -->
