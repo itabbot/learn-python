@@ -32,5 +32,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 
 # 关闭REPL
+# 或按ctrl+d
 >>> exit()
 ```
