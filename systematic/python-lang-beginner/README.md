@@ -15,12 +15,12 @@
 -   Creating Python Programs（创建 Python 程序）
     -   [VSCode Python Extensions](https://python.land/creating-python-programs/vscode-python-extensions)（[VSCode Python 扩展](./3.Creating-Python-Programs/VSCode-Python-Extensions.md)）
     -   [Python in VSCode: Running and Debugging](https://python.land/creating-python-programs/python-in-vscode)（[VSCode 中的 Python：运行和调试](./3.Creating-Python-Programs/Python-in-VSCode-Running-and-Debugging.md)）
+-   Classes and Objects in Python（Python 中的类和对象）
 
 <!--  -->
 <!--  -->
 <!--  -->
 
--   Classes and Objects in Python
 -   Structure Your Project
 -   Python Data Types
 -   Language Deep Dives
