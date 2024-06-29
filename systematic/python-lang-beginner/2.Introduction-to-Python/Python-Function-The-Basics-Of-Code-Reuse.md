@@ -40,7 +40,7 @@ Hello, readers!
 1 2 3
 ```
 
-内置函数是 `len`，它返回传入内容的长度：
+内置函数 `len`，它返回传入内容的长度：
 
 ```python
 >>> mylength = len('Hello')
