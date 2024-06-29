@@ -12,7 +12,7 @@
     -   [Python Boolean and Conditional Programming](https://python.land/introduction-to-python/python-boolean-and-operators)（[Python 布尔和条件编程](./2.Introduction-to-Python/Python-Boolean-and-Conditional-Programming.md)）
     -   [Python For Loop and While Loop](https://python.land/introduction-to-python/python-for-loop)（[Python For 循环和 While 循环](./2.Introduction-to-Python/Python-For-Loop-and-While-Loop.md)）
     -   [Python Function: The Basics Of Code Reuse](https://python.land/introduction-to-python/functions)（[Python 函数：代码重用的基础](./2.Introduction-to-Python/Python-Function-The-Basics-Of-Code-Reuse.md)）
--   Creating Python Programs
+-   Creating Python Programs（创建 Python 程序）
     -   [VSCode Python Extensions](https://python.land/creating-python-programs/vscode-python-extensions)（[VSCode Python 扩展](./3.Creating-Python-Programs/VSCode-Python-Extensions.md)）
 
 <!--  -->
