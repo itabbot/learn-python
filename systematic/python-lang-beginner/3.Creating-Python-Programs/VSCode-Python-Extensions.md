@@ -15,3 +15,5 @@
 -   autoDocstring: autoDocstring 扩展可帮助您快速生成文档字符串片段。
 
 -   Visual Studio IntelliCode: Intellicode 扩展是 Microsoft 构建的智能 AI 辅助代码完成扩展。它支持 Python、Java、JavaScript 和 TypeScript。
+
+-   autopep8: 代码格式化。
