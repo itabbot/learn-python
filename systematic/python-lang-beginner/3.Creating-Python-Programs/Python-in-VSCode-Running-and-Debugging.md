@@ -40,11 +40,11 @@ IndexError: list index out of range
 
 选择 “运行 -> 启动调试” 选项，或者直接按 F5，VSCode 会询问您要做什么。因为我们要运行当前文件，所以选择 “Python 文件”。程序将再次因错误而崩溃，但调试器不会停止，而是进入并突出显示发生错误的行：
 
-<img src="./imgs/debug.png" width="500" alt="debug.png"/>
+<img src="./imgs/debug.png" width="600" alt="debug.png"/>
 
 当鼠标悬停在 `sys.argv` 文本上时，将看到一个弹出窗口，允许详细检查变量：
 
-<img src="./imgs/debug2.png" width="400" alt="debug2.png"/>
+<img src="./imgs/debug2.png" width="600" alt="debug2.png"/>
 
 可以看出，即使我们没有提供参数，argv 仍然包含一个元素：当前脚本的完整路径。操作系统总是将程序的名称作为 argv 中的第一个参数提供给我们。
 
@@ -74,7 +74,7 @@ IndexError: list index out of range
 
 现在可以使用此配置启动调试器。但首先，通过单击带有小虫子的运行按钮或按下 Ctrl+Shift+D 或 Cmd+Shift+D 打开左侧面板中的运行/调试视图：
 
-<img src="./imgs/debug3.png" width="500" alt="debug3.png"/>
+<img src="./imgs/debug3.png" width="600" alt="debug3.png"/>
 
 在此视图的顶部，您应该会看到新创建的配置。单击旁边的播放按钮启动它。现在应该输出 “Hi there, Erik”。
 
