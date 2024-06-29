@@ -11,6 +11,7 @@
     -   [Python String: Working With Text](https://python.land/introduction-to-python/strings)（[Python 字符串：处理文本](./2.Introduction-to-Python/Python-String-Working-With-Text.md)）
     -   [Python Boolean and Conditional Programming](https://python.land/introduction-to-python/python-boolean-and-operators)（[Python 布尔和条件编程](./2.Introduction-to-Python/Python-Boolean-and-Conditional-Programming.md)）
     -   [Python For Loop and While Loop](https://python.land/introduction-to-python/python-for-loop)（[Python For 循环和 While 循环](./2.Introduction-to-Python/Python-For-Loop-and-While-Loop.md)）
+    -   [Python Function: The Basics Of Code Reuse](https://python.land/introduction-to-python/functions)（[Python 函数：代码重用的基础](./2.Introduction-to-Python/Python-Function-The-Basics-Of-Code-Reuse.md)）
 
 <!--  -->
 <!--  -->
