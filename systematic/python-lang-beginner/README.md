@@ -17,6 +17,7 @@
     -   [Python in VSCode: Running and Debugging](https://python.land/creating-python-programs/python-in-vscode)（[VSCode 中的 Python：运行和调试](./3.Creating-Python-Programs/Python-in-VSCode-Running-and-Debugging.md)）
 -   Classes and Objects in Python（Python 中的类和对象）
     -   [Classes and Objects in Python](https://python.land/objects-and-classes)（[Python 中的类和对象](./4.Classes-and-Objects-in-Python/Classes-and-Objects-in-Python.md)）
+    -   [Python Constructor](https://python.land/objects-and-classes/python-constructors)（[Python 构造方法](./4.Classes-and-Objects-in-Python/Python-Constructor.md)）
 
 <!--  -->
 <!--  -->
