@@ -21,6 +21,7 @@
     -   [Python Inheritance](https://python.land/objects-and-classes/python-inheritance)（[Python 继承](./4.Classes-and-Objects-in-Python/Python-Inheritance.md)）
 -   Structure Your Project（构建你的项目）
     -   [Python Modules: Bundle Code And Import It From Other Files](https://python.land/project-structure/python-modules)（[Python 模块：打包代码并从其他文件导入](./5.Structure-Your-Project/Python-Modules-Bundle-Code-And-Import-It-From-Other-Files.md)）
+    -   [Python Packages: Structure Code By Bundling Your Modules](https://python.land/project-structure/python-packages)（[Python 包：通过捆绑模块来构建代码](./5.Structure-Your-Project/Python-Packages-Structure-Code-By-Bundling-Your-Modules.md)）
 
 <!--  -->
 <!--  -->
