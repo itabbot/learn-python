@@ -29,12 +29,12 @@
     -   [Python Tuple: How to Create, Use, and Convert](https://python.land/python-data-types/python-tuple)（[Python 元组：如何创建、使用和转换](./6.Python-Data-Types/Python-Tuple-How-to-Create,-Use,-and-Convert.md)）
     -   [Python Set: The Why And How](https://python.land/python-data-types/python-set)（[Python 集合：为什么以及如何使用](./6.Python-Data-Types/Python-Set-The-Why-And-How.md)）
     -   [Python Dictionary: How To Create And Use](https://python.land/python-data-types/dictionaries)（[Python 字典：如何创建和使用](./6.Python-Data-Types/Python-Dictionary-How-To-Create-And-Use.md)）
+-   Language Deep Dives（语言深度探究）
 
 <!--  -->
 <!--  -->
 <!--  -->
 
--   Language Deep Dives
 -   Interaction with the OS
 -   Venvs / Package Management
 -   Python Concurrency
