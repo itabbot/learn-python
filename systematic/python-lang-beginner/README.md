@@ -24,6 +24,7 @@
     -   [Python Packages: Structure Code By Bundling Your Modules](https://python.land/project-structure/python-packages)（[Python 包：通过捆绑模块来构建代码](./5.Structure-Your-Project/Python-Packages-Structure-Code-By-Bundling-Your-Modules.md)）
 -   Python Data Types（Python 数据类型）
     -   [Python Integer: Non-Fractional Numbers](https://python.land/python-data-types/python-integer)（[Python 整数：非小数](./6.Python-Data-Types/Python-Integer-Non-Fractional-Numbers.md)）
+    -   [Python Float: Working With Floating-Point Numbers](https://python.land/python-data-types/python-float)（[Python 浮点数：使用浮点数](./6.Python-Data-Types/Python-Float-Working-With-Floating-Point-Numbers.md)）
 
 <!--  -->
 <!--  -->
