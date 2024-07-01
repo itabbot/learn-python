@@ -3,7 +3,7 @@
 [Beginner’s Python Tutorial >>](https://python.land/python-tutorial)
 
 -   Install（安装）
-    -   [Detailed Instructions](https://python.land/installing-python)（[详细安装说明](./1.Install-Python/Detailed-Instructions-for-Window-Mac-and-Linux.md)）
+    -   [Instructions](https://python.land/installing-python)（[安装说明](./1.Install-Python/Detailed-Instructions-for-Window-Mac-and-Linux.md)）
     -   [How To Open](https://python.land/installing-python/starting-python)（[如何打开](./1.Install-Python/How-To-Open-Python-on-Windows-Mac-Linux.md)）
 -   Introduction（介绍）
     -   [REPL](https://python.land/introduction-to-python/the-repl)（[REPL：探索运算符及其优先级](./2.Introduction-to-Python/Python-REPL.md)）
