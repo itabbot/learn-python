@@ -25,6 +25,7 @@
 -   Python Data Types（Python 数据类型）
     -   [Python Integer: Non-Fractional Numbers](https://python.land/python-data-types/python-integer)（[Python 整数：非小数](./6.Python-Data-Types/Python-Integer-Non-Fractional-Numbers.md)）
     -   [Python Float: Working With Floating-Point Numbers](https://python.land/python-data-types/python-float)（[Python 浮点数：使用浮点数](./6.Python-Data-Types/Python-Float-Working-With-Floating-Point-Numbers.md)）
+    -   [Python List: How To Create, Sort, Append, Remove, And More](https://python.land/python-data-types/python-list)（[Python 列表：如何创建、排序、附加、删除等](./6.Python-Data-Types/Python-List-How-To-Create-Sort-Append-Remove-And-More.md)）
 
 <!--  -->
 <!--  -->
