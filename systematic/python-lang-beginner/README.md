@@ -30,6 +30,7 @@
     -   [Python Set: The Why And How](https://python.land/python-data-types/python-set)（[Python 集合：为什么以及如何使用](./6.Python-Data-Types/Python-Set-The-Why-And-How.md)）
     -   [Python Dictionary: How To Create And Use](https://python.land/python-data-types/dictionaries)（[Python 字典：如何创建和使用](./6.Python-Data-Types/Python-Dictionary-How-To-Create-And-Use.md)）
 -   Language Deep Dives（语言深度探究）
+    -   [Python Try Except](https://python.land/deep-dives/python-try-except)（[Python 异常处理](./7.Language-Deep-Dives/Python-Try-Except.md)）
 
 <!--  -->
 <!--  -->
