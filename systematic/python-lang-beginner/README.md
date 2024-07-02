@@ -33,6 +33,7 @@
     -   [Try Except](https://python.land/deep-dives/python-try-except)（[异常处理](./7.Language-Deep-Dives/Python-Try-Except.md)）
     -   [Advanced Concepts of functions](https://python.land/deep-dives/functions)（[函数高级概念](./7.Language-Deep-Dives/Advanced-Concepts-of-functions.md)）
     -   [List Comprehension](https://python.land/deep-dives/list-comprehension)（[列表理解：列表推导](./7.Language-Deep-Dives/List-Comprehension.md)）
+    -   [Iterator](https://python.land/deep-dives/python-iterator)（[迭代器](./7.Language-Deep-Dives/Iterator.md)）
 
 <!--  -->
 <!--  -->
